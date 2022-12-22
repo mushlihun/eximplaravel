@@ -4,9 +4,9 @@ Laravel Breeze using method Export Import.
 
 It uses the Starter Kit [Laravel Breeze](https://github.com/laravel/breeze) based on Tailwind framework.
 
-![Laravel Breeze Table page](https://github.com/mushlihun/eximplaravel/public/images/1.png)
+![Laravel Breeze Table page](https://github.com/mushlihun/eximplaravel/blob/master/public/images/1.JPG)
 
-![Laravel Breeze Form page](https://github.com/mushlihun/eximplaravel/public/images/2.png)
+![Laravel Breeze Form page](https://github.com/mushlihun/eximplaravel/blob/master/public/images/1.JPG)
 
 -----
 
