@@ -6,7 +6,7 @@ It uses the Starter Kit [Laravel Breeze](https://github.com/laravel/breeze) base
 
 ![Laravel Breeze Table page](https://github.com/mushlihun/eximplaravel/blob/master/public/images/1.JPG)
 
-![Laravel Breeze Form page](https://github.com/mushlihun/eximplaravel/blob/master/public/images/1.JPG)
+![Laravel Breeze Form page](https://github.com/mushlihun/eximplaravel/blob/master/public/images/2.JPG)
 
 -----
 
